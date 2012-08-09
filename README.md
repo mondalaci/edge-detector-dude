@@ -1,7 +1,7 @@
 Edge Detector Dude
 ==================
 
-Edge Detector Dude is a sweet and simple graphics utility as can be
+Edge Detector Dude is a sweet and sexy graphics utility as can be
 seen on the following screenshot:
 
 ![](edge-detector-dude/raw/master/screenshot.png)
