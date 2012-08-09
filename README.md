@@ -25,15 +25,15 @@ recognizable.  Oh well...
 Build
 -----
 
-To build gradient, you'll need the Allegro developer library.  In
-Debian the liballegro-dev package contains just this.  After having
+To build gradient, you'll need the Allegro developer library which
+is contained by the `liballegro-dev` package on Debian.  After having
 the dependencies installed you can easily build gradient by invoking
 make.
 
 You don't have to build Edge Detector Dude, since it's a Python
 application however you'll need to have the PyGTK and the Python Glade
-packages installed which are named in Debian as the python-gtk2 and
-python-glade2 packages.
+packages installed which are named in Debian as `python-gtk2` and
+`python-glade2`.
 
 Install
 -------
