@@ -16,3 +16,8 @@ gradient utility that processes the input image.
 
 Edge Detector Dude is written in Python using PyGTK GUI library.
 gradient is written in C using the Allegro game programming library.
+
+I put together this bad boy in 2005 as a university project and don't
+plan to touch it again.  Also, I think I screwed the algorithm of the
+gradient-directed image because it doesn't resemble anything
+recognizable.  Oh well...
