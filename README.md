@@ -9,7 +9,8 @@ seen on the following screenshot:
 It computes and renders the Sobel edge-detected and
 the gradient-directed versions of the input image.  The pixels of the
 gradient-directed image are computed by denoting the angle of the
-gradient of the pixels and mapping their value as a grayscale color.
+gradient of the pixels and mapping their value to the relevant
+grayscale colors.
 
 Edge Detector Dude is actually a front end that uses the accompanying
 gradient utility that processes the input image.
