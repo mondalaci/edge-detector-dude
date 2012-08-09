@@ -4,7 +4,7 @@ Edge Detector Dude
 Edge Detector Dude is a sweet and sexy graphics utility as can be
 seen on the following screenshot:
 
-![](edge-detector-dude/raw/master/screenshot.png)
+![](/mondalaci/edge-detector-dude/raw/master/screenshot.png)
 
 It computes and renders the Sobel edge-detected and
 the gradient-directed versions of the input image.  The pixels of the
