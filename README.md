@@ -24,3 +24,5 @@ Install
 Copy the package directory to any place you want.  After that modify the program_dir variable in the beginning of the edge-detector-dude.py file to reflect the actual pathname of the application.
 
 You can invoke Edge Detector Dude from any place from this moment on.
+
+Enjoy!
