@@ -14,8 +14,8 @@ grayscale colors.
 
 Edge Detector Dude is actually a front end that uses the accompanying
 gradient utility that processes the input image.  Edge Detector Dude
-is written in Python using the PyGTK GUI library.  gradient is written
-in C using the Allegro game programming library.
+is written in Python using the [PyGTK](http://pygtk.org/) GUI library.  gradient is written
+in C using the [Allegro](http://alleg.sourceforge.net/) game programming library.
 
 I put together this bad boy in 2005 as a university project and don't
 plan to touch it again.  Also, I think I screwed the algorithm for the
