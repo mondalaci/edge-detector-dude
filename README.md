@@ -7,7 +7,7 @@ Edge Detector Dude is a sweet and sexy graphics utility that I've written in 200
 
 It computes and renders the Sobel edge-detected and the gradient-directed versions of the input image.  The pixels of the gradient-directed image are computed by denoting the angle of the gradients of the pixels and mapping their value to the relevant grayscale colors.
 
-Edge Detector Dude is actually a front end that uses the accompanying gradient utility that processes the input image.  Edge Detector Dude is written in Python using the [PyGTK](http://pygtk.org/) GUI library.  gradient is written in C using the [Allegro](http://alleg.sourceforge.net/) game programming library.
+Edge Detector Dude is actually a [PyGTK](http://pygtk.org/)-based front end that uses the accompanying gradient utility that processes the input image.  gradient is written in C using the [Allegro](http://alleg.sourceforge.net/) game programming library.
 
 It is pretty likely that I screwed the algorithm for the gradient-directed image because it doesn't resemble anything recognizable.  Oh well...
 
