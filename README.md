@@ -1,7 +1,7 @@
 Edge Detector Dude
 ==================
 
-Edge Detector Dude is a sweet and sexy graphics utility as can be seen on the following screenshot:
+Edge Detector Dude is a sweet and sexy graphics utility that I've written in 2005 for the digital image segmentation course of the university and it looks like this:
 
 ![](https://raw.github.com/mondalaci/edge-detector-dude/master/screenshot.png)
 
