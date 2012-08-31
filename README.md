@@ -3,8 +3,6 @@ Edge Detector Dude
 
 Edge Detector Dude is a sweet and sexy graphics utility that I've written in 2005 for the digital image segmentation course of the university and it looks like this:
 
-![](https://raw.github.com/mondalaci/edge-detector-dude/master/screenshot.png)
-
 ![](/mondalaci/edge-detector-dude/raw/master/screenshot.png)
 
 It computes and renders the Sobel edge-detected and the gradient-directed versions of the input image.  The pixels of the gradient-directed image are computed by denoting the angle of the gradients of the pixels and mapping their value to the relevant grayscale colors.
